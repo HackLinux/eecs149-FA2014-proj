@@ -12,3 +12,4 @@ Quadcopter Partner
 
 Sam Hausman, Gangbaolede Li, Steven Campos, Jimmy Su
 
+Edit by Jimmy Su.
